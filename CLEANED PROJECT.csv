@@ -1,0 +1,22 @@
+Customer_ID,Customer_Name,Country,Order_Date,Product, Sales_Amount 
+CUST001,John Doe,United States,1/1/2023,Laptop,"$1,200.00 "
+CUST002,Jane Smith,United States,1/3/2023,Laptop,"$1,200.00 "
+CUST003,Alice Johnson,United States,1/5/2023,Laptop,"$1,200.00 "
+CUST004,Bob Brown,Canada,1/7/2023,Phone,"$1,000.00 "
+CUST005,Unknown,Canada,7/1/2023,Tablet,$900.00 
+CUST006,Charlie Day,United Kingdom,1/9/2023,Tablet,$850.00 
+CUST007,David Jones,United Kingdom,Unknown,Phone,$750.00 
+CUST008,Eve White,United Kingdom,1/13/2023,Phone,
+CUST009,Sam Green,United Kingdom,1/10/2023,Tablet,"$1,100.00 "
+CUST010,Sara Blue,Nigeria,1/11/2023,Monitor,$950.00 
+CUST011,John Doe,Nigeria,1/12/2023,Monitor,"$1,050.00 "
+CUST012,Jane Smith,Nigeria,1/12/2023,Monitor,"$1,050.00 "
+CUST013,Unknown,India,1/13/2023,Keyboard,$80.00 
+CUST014,Tommy Lee,India,1/14/2023,Keyboard,$85.00 
+CUST015,Lucy Hale,India,1/15/2023,Mouse,$70.00 
+CUST016,Bob Brown,United States,1/16/2023,Mouse,$65.00 
+CUST017,Charlie Day,United States,1/16/2023,Mouse,$65.00 
+CUST018,David Jones,United Arab Emirates,1/17/2023,Printer,$150.00 
+CUST019,Eve White,United Arab Emirates,1/18/2023,Printer,$155.00 
+CUST020,Sam Green,Unknown,1/19/2023,Camera,$200.00 
+CUST021,Tommy Lee,India,1/20/2023,Camera,$190.00 
