@@ -1,0 +1,23 @@
+Customer_ID,Customer_Name,Country,Order_Date,Product,Sales_Amount
+CUST001,John Doe,usa,1/1/2023,Laptop,"$1,200"
+CUST002,jane smith,U.S.A.,1/3/2023,laptop,1200
+CUST003,Alice Johnson,United Sta,1/5/2023,LAPTOP,"USD 1,200"
+CUST004,BOb Brown,canada,1/7/2023,Phone,"1,000"
+CUST005,CUST005,CANADA,7/1/2023,Tablet,900
+CUST006,Charlie  Day,UK,2023.01.09,Tablet,850
+CUST007,david jones,united kingdom,2023-13-01,phone,750
+CUST008,EVE White,United Kin,,PHONE,
+CUST009,SAM Green,U.K.,1/10/2023,tablet,"1,100"
+CUST010,Sara  Blue,Nigeria,1/11/2023,Monitor,950
+CUST011,john doe,NIGERIA,1/12/2023,monitor,"1,050"
+CUST012,JANE SMITH,nigeria,1/12/2023,Monitor,1050
+CUST013,India,India,1/13/2023,Keyboard,800
+CUST014,Tommy Lee,india,1/14/2023,keyboard,850
+CUST015,lucy hale,IND,1/15/2023,mouse,70
+CUST016,BOB brown,U.S.,1/16/2023,Mouse,65
+CUST017,charlie day,US,1/16/2023,Mouse,65
+CUST018,DAVID JONES,UAE,1/17/2023,Printer,150
+CUST019,Eve WHITE,uae,1/18/2023,printer,155
+CUST020,SAm green,,1/19/2023,Camera,200
+,Tommy Lee,N/A,1/20/2023,camera,190
+CUST005,CUST005,USA,1/3/2023,Laptop,"USD 1,200"
